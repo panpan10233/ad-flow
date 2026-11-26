@@ -1,0 +1,141 @@
+{
+  "channels": {
+    "amazon": {
+      "budget": 0,
+      "status": "active"
+    },
+    "aliexpress": {
+      "budget": 0,
+      "status": "active"
+    },
+    "shein": {
+      "budget": 0,
+      "status": "active"
+    },
+    "tiktok": {
+      "budget": 0,
+      "status": "active"
+    },
+    "google": {
+      "budget": 0,
+      "status": "active"
+    }
+  },
+  "products": {
+    "p1": {
+      "bid": 0,
+      "status": "active"
+    },
+    "p2": {
+      "bid": 0,
+      "status": "active"
+    },
+    "p3": {
+      "bid": 0,
+      "status": "active"
+    },
+    "p4": {
+      "bid": 0,
+      "status": "active"
+    },
+    "p5": {
+      "bid": 0,
+      "status": "active"
+    },
+    "p6": {
+      "bid": 0,
+      "status": "active"
+    },
+    "p7": {
+      "bid": 0,
+      "status": "active"
+    },
+    "p8": {
+      "bid": 0,
+      "status": "active"
+    },
+    "p9": {
+      "bid": 0,
+      "status": "active"
+    },
+    "p10": {
+      "bid": 0,
+      "status": "active"
+    }
+  },
+  "keywords": {
+    "k1": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k2": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k3": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k4": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k5": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k6": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k7": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k8": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k9": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k10": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k11": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k12": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k13": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    },
+    "k14": {
+      "bid": 0,
+      "status": "active",
+      "negative": false
+    }
+  },
+  "log": [],
+  "executed": {},
+  "seq": 0
+}
